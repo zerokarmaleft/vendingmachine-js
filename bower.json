@@ -1,0 +1,38 @@
+{
+  "name": "vendingmachine-js",
+  "version": "0.0.1",
+  "authors": [
+    "Edward Cho <zerokarmaleft@gmail.com>"
+  ],
+  "description": "example code from CSP talk",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "csp",
+    "async",
+    "concurrency",
+    "es6",
+    "generators",
+    "coroutines",
+    "yield"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/zerokarmaleft/vendingmachine-js",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "immutable": "~3.2.1",
+    "js-csp": "~0.3.2",
+    "transducers-js": "~0.4.135",
+    "react": "~0.12.0",
+    "keymaster": "~1.6.2",
+    "underscore": "~1.7.0"
+  }
+}
