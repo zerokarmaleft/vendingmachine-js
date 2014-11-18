@@ -1,0 +1,8 @@
+{
+  "name": "vendingmachine-js",
+  "version": "0.0.1",
+  "author": "Edward Cho <zerokarmaleft@gmail.com> (http://edward-cho.com)",
+  "devDependencies": {
+    "bower": "*"
+  }
+}
